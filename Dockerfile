@@ -1,7 +1,5 @@
 FROM phusion/baseimage:0.11
 
-# Default Meteor version if not defined at build time; see ../build.sh
-ARG METEOR_VERSION=1.8.1
 
 ENV SCRIPTS_FOLDER /docker
 ENV APP_SOURCE_FOLDER /opt/src
