@@ -6,7 +6,7 @@
   "author": "Geoffrey Booth",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^3.0.7",
+    "mongodb": "^3.1.13",
     "p-wait-for": "^1.0.0"
   }
 }
